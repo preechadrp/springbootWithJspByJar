@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: springbootWithJsp
+  threads:
+    virtual:
+      enabled: true
+  mvc:
+    view:
+      prefix: /
+      #prefix: /WEB-INF/jsp/
+      suffix: .jsp
+#server:
+#	servlet:
+#	  context-path: /myapp
