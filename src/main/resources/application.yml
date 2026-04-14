@@ -9,9 +9,11 @@ spring:
       prefix: /
       #prefix: /WEB-INF/jsp/
       suffix: .jsp
-#server:
-#	servlet:
-#	  context-path: /myapp
+server:
+  servlet:
+    context-path: /
 
 db:
   pass: ทดสอบภาษาไทย
+  user: kkk
+  
