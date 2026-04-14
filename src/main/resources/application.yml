@@ -12,3 +12,6 @@ spring:
 #server:
 #	servlet:
 #	  context-path: /myapp
+
+db:
+  pass: ทดสอบภาษาไทย
